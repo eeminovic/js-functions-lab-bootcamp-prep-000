@@ -10,7 +10,7 @@ function happyHolidaysTo(string){
 }
 
 function happyHolidayTo(holiday,name){
-  var state= 'Happy ${holiday}, ${name}!'
+  var state= "Happy Independence Day, you!"
   return state;
 }
 
