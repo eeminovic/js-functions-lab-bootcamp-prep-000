@@ -14,3 +14,6 @@ function happyHolidayTo(holiday,name){
   return state;
 }
 
+function holidayCountDown(holiday, days){
+  return 
+}
